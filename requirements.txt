@@ -15,7 +15,7 @@ pickleshare==0.7.5
 Pillow==7.0.0
 prompt-toolkit==3.0.4
 pygame==1.9.6
-Pygments==2.6.1
+Pygments==2.7.4
 six==1.14.0
 traitlets==4.3.3
 wcwidth==0.1.8
